@@ -25,7 +25,9 @@ public class Test {
 			Example e = (Example)obj;
 			e.m1();
 			System.out.println("e.m1()");
+			
 			System.out.println("Checking for git");
+			
 		}
 		else if(obj instanceof Sample){
 			Sample s = (Sample)obj;
