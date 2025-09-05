@@ -1,3 +1,2 @@
 this is the 1st commit
-this is the 2nd commi;
-i want this line to change 
+i want this line to be deleted and set to original 
