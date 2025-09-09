@@ -1,2 +1,2 @@
 this is the 1st commit
-i want this line to be deleted and set to original  push from main branch
+i want to see the effect of the pull command
